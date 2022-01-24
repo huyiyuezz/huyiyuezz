@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/hello.jpg" /></p>
+[comment]: <> (<p align="center"><img src="images/hello-white.jpg" /></p>)
 
 <br />
 
