@@ -1,8 +1,8 @@
 [comment]: <> (<p align="center"><img src="images/hello-white.jpg" /></p>)
 
-<br />
+[comment]: <> (<br />)
 
-**About me**
+## About me
 
 - ❤️ I love writing JavaScript  
   
@@ -10,7 +10,7 @@
 
 - 📫 or email me:huyiyue99@foxmail.com
 
-**Languages and Tools:**  
+## Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
