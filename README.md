@@ -8,7 +8,7 @@
   
 - 💬 Ask me about anything [here](https://github.com/Moons99/Moons99/issues)
 
-- 📫 or email me:huyiyue99@foxmail.com
+- 📫 or email me:huyiyuezz@163.com
 
 ## Languages and Tools:  
 
